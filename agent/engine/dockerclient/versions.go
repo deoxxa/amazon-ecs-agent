@@ -34,7 +34,7 @@ const (
 	Version_1_23 DockerVersion = "1.23"
 	Version_1_24 DockerVersion = "1.24"
 
-	defaultVersion = Version_1_24
+	defaultVersion = Version_1_23
 )
 
 var supportedVersions []DockerVersion
